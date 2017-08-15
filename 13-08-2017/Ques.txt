@@ -1,0 +1,20 @@
+back to #1                        
+is baar we will explore more tags.. but with elements which have ui                                        
+select option textfield textarea button                        
+Input                        
+But there is something to learn here                        
+i told before har element becomes object in js                                               
+which you can get by getElementByid etc                        
+To this is what you have to see                                                
+Suppose select and option ka use karke i created combobox                        
+to 2 type ki cheej                        
+ek to ui se value bharo usmai                        
+Then try to get it from js                        
+Fir inverse behaviour                        
+Ki value bharo using js                        
+jaise option 2 select ki dropdown mai ui se.. to function mai pata karo ki which option is selected                        
+fir doosre case mai.. js se hi option 2 select karo                        
+isse tumko nayi properties pata chalengi                        
+Aur ye bhi                        
+Ki depending on type of tag js object mai properties can be different                        
+hand code karna.. bhale hi net se dekh ke                        

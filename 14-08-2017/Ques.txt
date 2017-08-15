@@ -1,0 +1,8 @@
+#6
+Normal object creation is a = {}
+Now create the same by your custom function. 
+Take few arguments, and return a object with predefined set of keys.
+
+This function would be called your constructor function.
+Since #6 is extremely simple, when you call the function, console.log "this" when you call this function. Remember this value because it will be used in #7.                        
+create it by a.b notation and a["b"] notation.. both

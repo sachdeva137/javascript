@@ -1,0 +1,6 @@
+1) basic html with div span textbox etc                        
+2) everything should have background colour                        
+3) try to find a pattern in how they are positioned / size                        
+4) experiment with position display zindex                        
+5) you can do by page refresh everytime or directly on dev tool                        
+6) check few results across more that one browser

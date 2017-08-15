@@ -1,0 +1,11 @@
+1) Loop - 
+    forEach
+    for in
+    for
+
+Try over array and object to see what works for what
+
+2) Convert Array to object to Array
+   forEach
+   for in
+no copy paste

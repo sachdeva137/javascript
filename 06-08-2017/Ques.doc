@@ -1,0 +1,7 @@
+[9:40 PM, 8/5/2017] Akash Singh: A#3                        
+[9:40 PM, 8/5/2017] Akash Singh: 1) Using position properties try to create something similar as in image
+2) Load a javascript file externally
+3) Learn what is addEventListner - and using it add click event to all the divs. Just like background color, everyone should also have click event.
+4) addEventListner takes a function when gets called everytime, someone clicks the div - in that function alert the id of div. Example, if div1 is clicked it should alert "div1".
+5) Now click on different div's and what all is alerted.
+Observe what is happening, and if there is something unexpected.

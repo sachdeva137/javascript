@@ -1,0 +1,33 @@
+body {  
+    background-color: lightblue;  
+}
+#divOne {
+    background-color: yellow;
+	
+}
+#inDivOne{
+	background-color: white;
+	position : relative;
+}
+#ininDivOne{
+	background-color:orange;
+	position : absolute;
+}
+#divTwo {
+    background-color: green;
+}
+#divThree {
+    background-color: red;
+	
+}
+#divFour {
+    background-color: pink;
+	
+}
+#divFive {
+    background-color: blue;	
+}
+
+
+
+
