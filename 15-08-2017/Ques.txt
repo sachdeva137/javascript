@@ -1,0 +1,6 @@
+1) use .addEventListener('DOMContentLoaded' and load the script on top for eventListner assignment
+2) Pass other type of arguments to your constructor - function, object, array, string, int
+Add all above to object and return
+3) Add additonal function to the object by name mygetfunction - which just returns the string we sent above
+4) Try same function with "new" to check if it returns empty or respects your return
+5) Try the same now with "new" and "this"
